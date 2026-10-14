@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.7.2
+xgboost==3.4.1
+imbalanced-learn==0.14.1
+
